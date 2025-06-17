@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">Profissional em transição para front-end</h3>
 
 ## 💡 Conecte-se comigo
 
@@ -18,7 +17,7 @@
 
 ## 💻 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathaliaif&theme=transparent&bg_color=edede9&border_color=edede9&show_icons=true&icon_color=9a8c98&title_color=9a8c98&text_color=22223b&hide_title=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathaliaif&theme=transparent&bg_color=edede9&border_color=edede9&show_icons=true&icon_color=9a8c98&title_color=9a8c98&text_color=22223b&hide_title=true&hide=stars,issues)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nathaliaif&layout=compact&bg_color=edede9&border_color=edede9&title_color=22223b&text_color=22223b)
 
