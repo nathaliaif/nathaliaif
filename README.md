@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3e5c76?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaliairokawa/)
 [![GitHub](https://img.shields.io/badge/GitHub-3e5c76?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nathaliaif)
+[![Codewars](https://img.shields.io/badge/Codewars-3e5c76?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/nathaliaif)
 
 ## 💻 Skills
 
@@ -20,6 +21,12 @@
 ![React](https://img.shields.io/badge/React-9a8c98?style=for-the-badge&logo=react&logoColor=white)
 ![Next](https://img.shields.io/badge/Next.js-9a8c98?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-9a8c98?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-9a8c98?style=for-the-badge&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-9a8c98?style=for-the-badge&logo=illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-9a8c98?style=for-the-badge&logo=photoshop&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-9a8c98?style=for-the-badge&logo=indesign&logoColor=white)
 
 ## 🛠️ GitHub Stats
 <a href="https://github.com/nathaliaif/github-readme-stats">
