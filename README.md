@@ -2,6 +2,10 @@
 
 <h3 align="center">Profissional em transição para front-end.</h3>
 
+📖 Atualmente cursando:
+- Pós-graduação de Frontend Enginnering - FIAP
+- Santander Bootcamp 2025 - Frontend 
+
 ## 💡 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3e5c76?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaliairokawa/)
@@ -17,12 +21,12 @@
 ![Next](https://img.shields.io/badge/Next.js-9a8c98?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-9a8c98?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## ⚙️ GitHub Stats
+## 🛠️ GitHub Stats
 <a href="https://github.com/nathaliaif/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api?username=nathaliaif&theme=transparent&bg_color=edede9&border_color=edede9&show_icons=true&icon_color=9a8c98&title_color=9a8c98&text_color=22223b&hide_title=true&hide=stars,issues" />
 </a>
 <a href="#">
-  <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nathaliaif&layout=compact&bg_color=edede9&border_color=edede9&title_color=22223b&text_color=22223b" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaif&layout=compact&bg_color=edede9&border_color=edede9&title_color=22223b&text_color=22223b" />
 </a>
 
 ## ✨ Highlight Projects
